@@ -23,6 +23,22 @@
       "category": "Moradia",
       "price": 2500,
       "createdAt": "2024-08-20T14:31:30.065Z"
+    },
+    {
+      "id": "761a",
+      "description": "Desenvolvimento de app",
+      "price": 15000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2024-08-27T17:57:41.216Z"
+    },
+    {
+      "id": "eadd",
+      "description": "Lanche",
+      "price": 15,
+      "category": "Alimantação",
+      "type": "outcome",
+      "createdAt": "2024-08-27T18:57:01.882Z"
     }
   ]
 }
